@@ -1,0 +1,4 @@
+.gitidnore
+.idea/
+hackernews-react-apollo/node_modules
+hackernews-react-apollo/.idea/
