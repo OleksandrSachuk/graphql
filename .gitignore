@@ -2,3 +2,5 @@
 .idea/
 hackernews-react-apollo/node_modules
 hackernews-react-apollo/.idea/
+hackernews-react-relay/node_modules
+hackernews-react-relay/.idea/
